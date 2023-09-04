@@ -10,5 +10,6 @@ It allows sign language users to engage in spoken conversations and provides wri
 We have used the GRID CORPUS data set for the development of our project.
 Dataset link: https://zenodo.org/record/3625687
 Document link:https://drive.google.com/file/d/1E1rUGQv4M0fy4nWutg3JGEy8qOmoWzi7/view?usp=sharing
+Demo Video link: https://drive.google.com/file/d/1UxuYd7XJ0m7XSidub16DIITqe7mnDU7s/view?usp=sharing
 
 
